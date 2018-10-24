@@ -1,5 +1,13 @@
 # Basic Typescript Transpiler
 
+## Table of Contents
+
+- [Basic Typescript Transpiler](#basic-typescript-transpiler)
+    - [Table of Contents](#table-of-contents)
+    - [Purpose](#purpose)
+    - [Components](#components)
+    - [Credit](#credit)
+
 ## Purpose
 
 Parses Typescript to an abstract syntax tree which, in conjunction with a JSON template, can be compiled into any other programming language.
