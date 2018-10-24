@@ -6,10 +6,10 @@ Parses Typescript to an abstract syntax tree which, in conjunction with a JSON t
 
 ## Components
 
-* [Parser](Documentation/parser.md)
-* [Syntax Tree](Documentation/syntax-tree.md)
-* [Destination Template](Documentation/destination-template.md)
-* [Compiler](Documentation/compiler.md)
+* [Parser](Documentation/Parser/parser.md)
+* [Syntax Tree](Documentation/Syntax-Tree/syntax-tree.md)
+* [Destination Template](Documentation/Destination-Template/destination-template.md)
+* [Compiler](Documentation/Compiler/compiler.md)
 
 ## Credit
 
