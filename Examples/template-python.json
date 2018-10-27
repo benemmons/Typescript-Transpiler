@@ -1,0 +1,10 @@
+{
+    "replacements": {
+        "number": "int",
+        "test": "lmao"
+    },
+    "intents": {
+        "declaration": "{variableName} = {valueType}({value})",
+        "addition": "{variableName} = {firstValue} + {secondValue}"
+    }
+}
