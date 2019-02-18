@@ -1,5 +1,6 @@
 # Basic Typescript Transpiler
 
+![Flowchart](https://raw.githubusercontent.com/benemmons/Template-Transpiler/master/Docs/Assets/Overview-Flowchart/Diagram.png)
 ## Table of Contents
 
 - [Basic Typescript Transpiler](#basic-typescript-transpiler)
